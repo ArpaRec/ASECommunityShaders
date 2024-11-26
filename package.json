@@ -16,5 +16,6 @@
       "name": "TechSide",
       "email": "techside@arparec.xyz",
       "url": "https://arparec.xyz"
-    }
+    },
+    "hideInEditor": false
   }
